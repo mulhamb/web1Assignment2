@@ -2,7 +2,13 @@ body {
     background-color: aqua;
 }
 
-#anchorcolor {
+#anchorcolor1 {
+    color: white;
+}
+#anchorcolor2 {
 
     color: white;
 }
+
+header {
+padding: 0.7cm;}
